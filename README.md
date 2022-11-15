@@ -1,5 +1,5 @@
 # BigProject Template
-This project template is more or less a good starting point for you to write a C program. There are few customizations such as doxygen-awesome-css themes, helper scripts, useful dependencies, and more! You can use this template for a professional project as well if desired to. All of the dependencies in this project template as well as the template itself are licensed under MIT License at this time of writing 11/15/2022.
+This project template is more or less a good starting point for you to write a C program. There are few customizations such as doxygen-awesome-css themes, helper scripts, useful dependencies, and more! You can use this template for a professional project as well if desired to. The BigProject template and Doxygen-awesome-css projects are licensed under MIT License at this time of writing 11/15/2022.
 
 This template project is used for the book called, "Introduction to C Programming Language" by TechScribe which is free for anyone to read: https://github.com/TechScribe-Deaf/Docs/blob/main/IntroToCLanguage.pdf
 
