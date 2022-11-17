@@ -8,5 +8,7 @@ Quality of Life Features:
     - Run cppcheck by running `meson compile -C build cppcheck`
     - Run valgrind memory check by running 'meson compile -C build valgrind'
     - Generates callgraph file and display in KCachegrind by running 'meson compile -C build callgraph'
+    - Easy to use Doxygen, simply run 'doxygen BigProject.doxyfile' to generates html output under docs directory
+    - Supports PlantUML in Doxygen, update path to plantuml jar file in BigProject.doxyfile if error is generated.
 
 Enjoy!
